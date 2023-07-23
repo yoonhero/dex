@@ -1,5 +1,5 @@
 .theme-body {
-  background-color: #efefef;
+  background-color: #fff;
   color: #333;
   font-family: 'Source Sans Pro', Helvetica, sans-serif;
 }
@@ -29,16 +29,15 @@
 }
 
 .theme-heading {
-  font-size: 20px;
-  font-weight: 500;
   margin-bottom: 10px;
   margin-top: 0;
 }
 
 .theme-panel {
   background-color: #fff;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); */
   padding: 30px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 .theme-btn-provider {
@@ -76,7 +75,7 @@
 
 .theme-form-row {
   display: block;
-  margin: 20px auto;
+  margin: 15px auto;
 }
 
 .theme-form-input {
