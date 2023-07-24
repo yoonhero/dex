@@ -75,7 +75,7 @@ body {
   background-image: url(../static/img/google-icon.svg);
 }
 
-.dex-btn-icon--GOOGLE {
+.dex-btn-icon--Google {
   background-color: #FFFFFF;
   background-image: url(../static/img/google-icon.svg);
 }
@@ -95,7 +95,7 @@ body {
   background-image: url(../static/img/github-icon.svg);
 }
 
-.dex-btn-icon--Github {
+.dex-btn-icon--GitHub {
   background-color: #F5F5F5;
   background-image: url(../static/img/github-icon.svg);
 }
@@ -147,14 +147,26 @@ body {
   background-image: url(../static/img/microsoft-icon.svg);
 }
 
-.dex-btn-icon--NAVER {
+.dex-btn-icon--Naver {
   background-color: #1CDF03;
   background-image: url(https://image.rocketpunch.com/company/5466/naver_logo.png?s=400x400&t=inside);
 }
 
-.dex-btn-icon--KAKAO {
+.dex-btn--Naver {
+  background-color: #1CDF03 !important;
+}
+
+.dex-btn-icon--Kakao {
   background-color: #FEDC3F;
   background-image: url(https://surisuri.co.kr/assets/images/sns/circle/kakao.png);
+}
+
+.dex-btn--Kakao {
+  background-color: #feDC3F !important;
+}
+
+.dex-btn--Github {
+  background-color: #F5F5F5 !important;
 }
 
 .dex-btn-text {
